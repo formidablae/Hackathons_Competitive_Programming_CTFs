@@ -55,6 +55,7 @@ Code submitted in programming competitions like hackathons, competitive programm
 - [HackerEarth](https://github.com/formidablae/HackerEarth) `programming interviews` `challenges` `contests`
   - [2020](https://github.com/formidablae/HackerEarth/2020)
   - [2021](https://github.com/formidablae/HackerEarth/2021)
+  - [Practice](https://github.com/formidablae/HackerEarth/Practice)
 - [HackerRank](https://github.com/formidablae/HackerRank)
 - [Hacking - The Art of Exploitation](https://github.com/formidablae/Hacking_The_Art_of_Exploitation)
 - [HackTheBox](https://github.com/formidablae/HackTheBox) `computer security` `ctf` `contests`
